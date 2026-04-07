@@ -127,7 +127,7 @@ export default function Hero() {
               {/* Profile image area */}
               <div className="relative w-full h-full bg-gradient-to-br from-slate-100 to-slate-200 dark:from-slate-800 dark:to-slate-900 flex items-center justify-center rounded-2xl overflow-hidden">
                 <div className="relative w-80 h-80 rounded-full bg-gradient-to-r from-blue-400 to-blue-600 flex items-center justify-center shadow-2xl">
-                  <div className="text-8xl"><img src='https://ik.imagekit.io/vhpbmnzi7/shivam.jpg' alt='me'/></div>
+                  <div className="text-8xl"><img src='https://ik.imagekit.io/vhpbmnzi7/shivam-rathod.png' alt='me'/></div>
                 </div>
               </div>
 
